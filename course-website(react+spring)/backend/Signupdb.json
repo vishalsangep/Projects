@@ -1,0 +1,72 @@
+{
+  "user": [
+    {
+      "id": "test",
+      "username": "test",
+      "pass": "test",
+      "email": "test",
+      "role": "user"
+    },
+    {
+      "id": "admin",
+      "username": "admin",
+      "pass": "admin",
+      "email": "admin",
+      "role": "admin"
+    },
+    
+    
+    {
+      "id": "test10",
+      "username": "test10",
+      "pass": "test10",
+      "email": "test10",
+      "role": "user"
+    }
+  ],
+  "roleaccess": [
+    {
+      "role": "admin",
+      "menu": "customer",
+      "haveadd": true,
+      "haveedit": true,
+      "havedelete": true
+    },
+    {
+      "role": "user",
+      "menu": "customer",
+      "haveadd": true,
+      "haveedit": true,
+      "havedelete": false
+    },
+    {
+      "role": "user1",
+      "menu": "customer",
+      "haveadd": false,
+      "haveedit": false,
+      "havedelete": false
+    }
+  ],
+  "customer": [
+    {
+      "code": 1,
+      "name": "Chris1",
+      "email": "chris1@in.com"
+    },
+    {
+      "code": 2,
+      "name": "Chris2",
+      "email": "chris2@in.com"
+    },
+    {
+      "code": 3,
+      "name": "Chris3",
+      "email": "chris3@in.com"
+    },
+    {
+      "code": 4,
+      "name": "Chris4",
+      "email": "chris4@in.com"
+    }
+  ]
+}

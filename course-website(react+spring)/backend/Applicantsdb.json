@@ -1,0 +1,40 @@
+{
+  "applicants": [
+    {
+      "id": "aa",
+      "email": "aa",
+      "passw": "aa",
+      "eduq": "Graduate",
+      "firstname": "aa",
+      "lastname": "aa",
+      "country": "Usa"
+    },
+    {
+      "id": "vvvvv",
+      "email": "vvvvv",
+      "passw": "bb",
+      "eduq": "Post Graduate",
+      "firstname": "bb",
+      "lastname": "bb",
+      "country": "......"
+    },
+    {
+      "id": "o0Wvo3i",
+      "email": "test@gmail.com",
+      "passw": "teat1234",
+      "eduq": "Graduate",
+      "firstname": "test1",
+      "lastname": "test2",
+      "country": "England"
+    },
+    {
+      "id": "5ejHpFO",
+      "email": "test@gmail.com",
+      "passw": "test1234",
+      "eduq": "Graduate",
+      "firstname": "test1",
+      "lastname": "test2",
+      "country": "England"
+    }
+  ]
+}

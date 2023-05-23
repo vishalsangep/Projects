@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  
+}
+.navv{
+  width: 97%;
+  border-radius: 15px;
+}
+.navbar{
+  margin-top: 10px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 15px;
+  
+
+}
+.align-item-nav{
+  
+}
+
