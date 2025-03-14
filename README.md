@@ -1,4 +1,4 @@
-# Projects
+# Frontend
 
 1.Travel website  --Reactjs --completed     
 2.course website  --Reactjs + springboot  --Inprogress      
